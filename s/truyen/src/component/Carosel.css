@@ -1,0 +1,43 @@
+.col-md-3{
+    display: inline-block;
+    margin-left:-4px;
+  }
+  .col-md-3 img{
+    width:100%;
+    height:auto;
+  }
+  body .carousel-indicators li{
+    background-color:rgb(255, 255, 255);
+  }
+  body .carousel-control-prev-icon,
+  body .carousel-control-next-icon{
+    background-color:rgb(106, 233, 255);
+  }
+  body .no-padding{
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+#pk{
+  position: relative;
+  padding: 7px ;
+}
+
+#imgCarousel{
+  height: 170px !important;
+
+}
+.truyen_de_cu{
+  color: rgb(66, 60, 94);
+  padding-left: 1.6%;
+}
+.carousel{
+
+}
+#demo{
+  text-align: center;
+}
+#container-fluid{
+  padding-left: 9.3%;
+  padding-right: 9.3%;
+}

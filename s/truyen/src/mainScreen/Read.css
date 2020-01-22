@@ -1,0 +1,16 @@
+.content{
+    text-align: center !important;
+}
+.content-2{
+    text-align: center;
+}
+.img{
+    width:51.5%;
+}
+.heart{
+    height: 22px;
+    opacity: 0.7;
+}
+.heart:hover{
+    opacity: 1;
+}

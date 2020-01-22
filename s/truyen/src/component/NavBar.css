@@ -1,0 +1,14 @@
+.logo {
+    height: 50px;
+    padding-left:10px;
+    padding-right: 30px;
+};
+.logo:hover {
+    padding-left:100px;
+}
+#nav-link:hover{
+    color: blue !important;
+}
+.dropdown-menu.show{
+    width: 620px;
+}
